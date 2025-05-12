@@ -1,0 +1,15 @@
+{
+  "name": "tea-nma-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js project using the nma package, built for Tea Network registration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["tea", "nma", "airdrop", "oss"],
+  "author": "keyyone",
+  "license": "MIT",
+  "dependencies": {
+    "nma": "^0.0.3"
+  }
+}
